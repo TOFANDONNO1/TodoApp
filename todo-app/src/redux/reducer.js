@@ -1,6 +1,8 @@
 
 const initialState = {
-    todos: [],
+    todos: [
+        
+    ],
   };
   
   const todoReducer = (state = initialState, action) => {
